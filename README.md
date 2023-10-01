@@ -16,6 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZRX-SIGMA)](https://git.io/streak-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ZRX-SIGMA&icon=2&color=0)](https://visitcount.itsvg.in)
 
