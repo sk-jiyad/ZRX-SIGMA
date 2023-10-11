@@ -16,6 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![An image of @sk_jiyad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sk_jiyad)](https://holopin.io/@sk_jiyad)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ZRX-SIGMA&icon=2&color=0)](https://visitcount.itsvg.in)
 
